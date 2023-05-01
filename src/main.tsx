@@ -9,8 +9,6 @@ import {
   Provider as AlertProvider,
   types,
 } from "react-alert";
-// eslint-disable-next-line @typescript-eslint/ban-ts-comment
-// @ts-ignore
 import AlertTemplate from "react-alert-template-basic";
 import "./index.css";
 
