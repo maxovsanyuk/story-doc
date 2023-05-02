@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { Editor } from "./features/editor/components/editor";
+import { Editor } from "./modules/editor/components/editor";
 import { store } from "./redux/store";
 import { Provider } from "react-redux";
 import {
